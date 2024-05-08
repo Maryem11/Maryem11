@@ -1,16 +1,41 @@
-### Hi there 👋
 
-<!--
-**Maryem11/Maryem11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![GitHub Views](https://komarev.com/ghpvc/?username=Maryem11&color=2685BF)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩🏻‍🦱🇨🇴 Hi there 👋 Hola!
+
+I am Lina Perez! Welcome to my GitHub! I am pursuing a Master of Science in Business Analytics at San Francisco State University. I have more than 5 years of experience in Data Analysis where I helped companies in Colombia to make decisions based on data. I am looking for positions in Data Science. I can't wait to put into practice what I have learned at grad school!
+
+
+# 💼 My Portfolio
+
+In the field of Data Analytics, I explore Descriptive, Predictive, and Prescriptive Analytics. Through my portfolio, I aim to showcase projects in each phase, using various tools and covering diverse topics.
+
+
+[Decision_Tree](https://github.com/Maryem11/Tree_Classifier)
+
+
+# 🛠️ Skills
+
+[![Python](https://img.shields.io/badge/Python-47A141?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R_Studio-276DC3?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)](https://www.r-project.org/)
+[![SQL](https://img.shields.io/badge/SQL-999999?style=for-the-badge&logo=Liquibase&logoColor=white&labelColor=101010)]()
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white&labelColor=101010)](https://powerbi.microsoft.com/es-es/desktop/)
+[![TableaU](https://img.shields.io/badge/Tableau-00979D?style=for-the-badge&logo=Tableau&logoColor=white&labelColor=101010)]([https://www.arduino.cc/](https://www.tableau.com/))
+
+
+# ⚡ Hobbies
+
+🏖️ I love to travel
+
+🏕️ I like outdoors
+
+🧩 I am a Puzzle lover 
+
+💃🏻 And of course I like to dance
+
+
+# 💬 Contact me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lina_Perez-101010?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/lina-perez-romero/)
+
