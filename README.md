@@ -4,7 +4,7 @@
 
 ### 👩🏻‍🦱🇨🇴 Hi there 👋 Hola!
 
-I am Lina Perez! Welcome to my GitHub! I am pursuing a Master of Science in Business Analytics at San Francisco State University. I have more than 5 years of experience in Data Analysis where I helped companies in Colombia to make decisions based on data. I am looking for positions in Data Science. I can't wait to put into practice what I have learned at grad school!
+I am Lina Perez! Welcome to my GitHub! I am pursuing a Master of Science in Business Analytics at San Francisco State University. I have more than 5 years of experience in Data Analysis where I helped companies in Colombia to make decisions based on data. I am looking for positions in Data Science or Data Analysis. I can't wait to put into practice what I have learned at grad school!
 
 
 # 💼 My Portfolio
