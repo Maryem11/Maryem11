@@ -11,8 +11,15 @@ I am Lina Perez! Welcome to my GitHub! I am a data analytics professional, and I
 
 In the field of Data Analytics, I explore Descriptive, Predictive, and Prescriptive Analytics. Through my portfolio, I aim to showcase projects in each phase, using various tools and covering diverse topics.
 
+## Descriptive Analytics
+[E-commerce Orders Dashboard](https://github.com/Maryem11/)
+
+## Predictive Analytics
 
 [Decision_Tree](https://github.com/Maryem11/Tree_Classifier)
+
+[Breast_Cancer_Classification](https://github.com/Maryem11/Breast_Cancer_Classification)
+
 
 
 # 🛠️ Skills
