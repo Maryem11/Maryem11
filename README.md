@@ -17,9 +17,9 @@ In the field of Data Analytics, I explore Descriptive, Predictive, and Prescript
 
 **Predictive Analytics:**
 
-[Decision_Tree](https://github.com/Maryem11/Tree_Classifier)
+[Optimal Crop Planting Locations (Decision Tree Model)](https://github.com/Maryem11/Tree_Classifier)
 
-[Breast_Cancer_Classification](https://github.com/Maryem11/Breast_Cancer_Classification)
+[Breast Cancer Diagnosis with ML (UCI Dataset)](https://github.com/Maryem11/Breast_Cancer_Classification)
 
 
 
